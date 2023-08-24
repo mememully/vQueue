@@ -355,6 +355,7 @@ CATARGS["ony"] = {
 }
 CATARGS["zg"] = {
 	"zg",
+	"zug",
 	"zul gurub", -- #15
 	"gurub",
 	"hakkar"
