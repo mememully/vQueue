@@ -391,6 +391,7 @@ CATARGS["naxx"] = {
 }
 CATARGS["wsg"] = {
 	"wsg",
+	"战歌",
 	"warsong",
 	"gulch",
 	"premade"
@@ -403,6 +404,9 @@ CATARGS["ab"] = {
 }
 CATARGS["av"] = {
 	"av",
+	"奥山",
+	"阿拉希",
+	"ALX",
 	"alterac",
 	"valley",
 	"aterac"
