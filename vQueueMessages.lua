@@ -255,6 +255,7 @@ CATARGS["ulda"] = {
 }
 CATARGS["zf"] = {
 	"zul farak",
+	"ZUL",
 	"祖尔",
 	"祖法",
 	"祖尔法拉克",
