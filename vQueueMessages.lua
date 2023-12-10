@@ -372,13 +372,18 @@ CATARGS["ruins"] = {
 	"aq",
 	"ahn",
 	"qiraj",
-	"ruins"
+	"ruins",
+	"FX",
+	"废墟"
 }
 CATARGS["temple"] = {
 	"aq",
 	"ahn",
 	"qiraj",
-	"temple"
+	"temple",
+	"TAQ",
+	"AQL",
+	"安其拉"
 }
 CATARGS["bwl"] = {
 	"blackwing",
