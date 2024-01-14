@@ -352,7 +352,8 @@ CATARGS["ubrs"] = {
 CATARGS["ony"] = {
 	"ony",
 	"onyxia",
-	"onyxias"
+	"onyxias",
+	"黑龙"
 }
 CATARGS["zg"] = {
 	"zg",
