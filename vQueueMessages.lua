@@ -375,7 +375,8 @@ CATARGS["ruins"] = {
 	"qiraj",
 	"ruins",
 	"FX",
-	"废墟"
+	"废墟",
+	"安其拉废墟"
 }
 CATARGS["temple"] = {
 	"aq",
